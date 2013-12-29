@@ -13,3 +13,7 @@
 
 ## Python:
 1. use map() to simplify things
+2. use list comprehension to flatten a nested list/dict
+        
+        [b for dic in [dict1, dict2, dict3] for (a,b) in dic.items()]
+        
