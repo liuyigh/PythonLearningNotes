@@ -17,3 +17,6 @@
         
         [b for dic in [dict1, dict2, dict3] for (a,b) in dic.items()]
         
+## Pandas:
+1. use astype(float) to change stype
+2. 
