@@ -20,3 +20,7 @@
 ## Pandas:
 1. use astype(float) to change stype
 2. 
+
+## Web2py:
+1. how to uWSGI
+2. how to multiple domains
