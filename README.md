@@ -21,6 +21,13 @@
 
         info = {k: [x.strip() for x in v] for (k, v) in info.iteritems()}
         
+        
+
+        Use a dictionary when you have a set of unique keys that map to values.
+        Use a list if you have an ordered collection of items.
+        Use a set to store an unordered set of items.
+
+
 ## Pandas:
 1. use astype(float) to change stype
 2. 
