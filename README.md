@@ -16,6 +16,10 @@
 2. use list comprehension to flatten a nested list/dict
         
         [b for dic in [dict1, dict2, dict3] for (a,b) in dic.items()]
+
+3. use dict / list comprehension for powerful process:
+
+        info = {k: [x.strip() for x in v] for (k, v) in info.iteritems()}
         
 ## Pandas:
 1. use astype(float) to change stype
