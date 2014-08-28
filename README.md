@@ -27,6 +27,9 @@
         Use a list if you have an ordered collection of items.
         Use a set to store an unordered set of items.
 
+4. filter empty string:
+
+        str_list = filter(None, str_list)
 
 ## Pandas:
 1. use astype(float) to change stype
