@@ -38,3 +38,7 @@
 ## Web2py:
 1. how to uWSGI
 2. how to multiple domains
+3. use nohup xxxx & to run background or use screen to run ssh tunneled python admin
+4. use crontab @reboot to start web2py.py -K app
+5. define table
+6. 
