@@ -30,6 +30,8 @@
 4. filter empty string:
 
         str_list = filter(None, str_list)
+        
+5. use functools.partial to freeze/set certain arguments
 
 ## Pandas:
 1. use astype(float) to change stype
@@ -41,4 +43,5 @@
 3. use nohup xxxx & to run background or use screen to run ssh tunneled python admin
 4. use crontab @reboot to start web2py.py -K app
 5. define table
-6. 
+6. use request.args to dynamicly define variables (mailer headers etc.)
+7. 
