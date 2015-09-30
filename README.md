@@ -1,5 +1,12 @@
 # Python Learning Notes
 
+## system
+1. use pyenv to get around root privileges
+2. use Anaconda to get around compiling restriction
+3. Anaconda missing packages:
+        * mandrill
+        * plotly
+
 ## Crontab
 ### Allow relative Path in crontab:
 1. crontab can use cd to change working directory
