@@ -4,7 +4,6 @@
 1. use `pyenv` to get around root privileges
 2. use `Anaconda` to get around compiling restriction
 3. Anaconda missing packages:
- * mandrill
  * plotly
 
 ## Crontab
