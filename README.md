@@ -1,5 +1,7 @@
 # Python Learning Notes
 
+**Always check your code thoroughly before asking for help. Ref: request Cross Site error caused by `[]`**
+
 ## system
 1. use `pyenv` to get around root privileges
 2. use `Anaconda` to get around compiling restriction
