@@ -40,6 +40,7 @@
         str_list = filter(None, str_list)
         
 5. use functools.partial to freeze/set certain arguments
+6. remember to close file to finish writing.
 
 ## Pandas:
 1. use astype(float) to change stype
