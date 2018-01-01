@@ -46,6 +46,9 @@
 1. use astype(float) to change stype
 2. 
 
+## lxml:
+1. be careful with JS re-written attributes and capitalization.
+
 ## Web2py:
 1. how to uWSGI
 2. how to multiple domains
