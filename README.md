@@ -49,6 +49,7 @@
 ## lxml:
 1. be careful with JS re-written attributes and capitalization.
 2. be careful with text with /t/n spaces
+3. be careful wih variable explorer
 
 ## Web2py:
 1. how to uWSGI
