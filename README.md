@@ -41,6 +41,7 @@
         
 5. use functools.partial to freeze/set certain arguments
 6. remember to close file to finish writing.
+7. syntax brackets error due to sublime autocompletion
 
 ## Pandas:
 1. use astype(float) to change stype
