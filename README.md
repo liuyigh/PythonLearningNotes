@@ -59,4 +59,4 @@
 4. use crontab @reboot to start web2py.py -K app
 5. define table
 6. use request.args to dynamicly define variables (mailer headers etc.)
-7. 
+7. request.requires_https() includes redirect and session.secure() [link](https://groups.google.com/forum/#!msg/web2py/RHwSWU5sqqA/UlXCmJ3VmCoJ)
