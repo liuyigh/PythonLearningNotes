@@ -45,7 +45,7 @@
 
 ## Pandas:
 1. use astype(float) to change stype
-2. 
+2. pandas-datareader 0.5.0 not available from conda, use pip instead, no need to downgrade
 
 ## lxml:
 1. be careful with JS re-written attributes and capitalization.
