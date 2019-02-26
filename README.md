@@ -42,6 +42,10 @@
 5. use functools.partial to freeze/set certain arguments
 6. remember to close file to finish writing.
 7. syntax brackets error due to sublime autocompletion
+8. memory release
+        * del + gc.collect()
+        * multiprocessing
+        * divide into smaller chunks then use shell script to run one by one
 
 ## Pandas:
 1. use astype(float) to change stype
