@@ -46,6 +46,7 @@
     * del + gc.collect()
     * multiprocessing
     * divide into smaller chunks then use shell script to run one by one
+9. class Object does not update automatically if you revise the class **after** the object is created.
 
 ## Pandas:
 1. use astype(float) to change stype
