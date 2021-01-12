@@ -47,6 +47,9 @@
     * multiprocessing
     * divide into smaller chunks then use shell script to run one by one
 9. class Object does not update automatically if you revise the class **after** the object is created.
+10. Fucntions: reuse, readability, avoid redundancy
+    * KimPeek 2 years ago
+    * Functions should be small, sharp tools that do one thing well. This is a guideline, not a hard rule, but you should generally make a new function for each code block. Every loop, try/except block, whenever you indent more than 3 times, and anytime you are doing more than one thing.
 
 ## Pandas:
 1. use astype(float) to change stype
